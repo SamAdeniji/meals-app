@@ -8,7 +8,7 @@ function Header() {
             <span class="fs-4">Recipes</span>
           </a>
     
-
+<NavBar/>
 
 
         </header>
